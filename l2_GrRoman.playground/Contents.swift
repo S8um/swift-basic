@@ -53,7 +53,7 @@ func fib(numbers: Int) -> Array <Decimal> {
     return fibArray
 }
 
-var myFibArray = fib(numbers: 100)
+var myFibArray = fib(numbers: 3)
 
 print("\(myFibArray.count - 1) items - \(myFibArray)")
 
