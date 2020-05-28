@@ -90,3 +90,5 @@ fastlane/test_output
 iOSInjectionProject/
 
 l2_GrRoman online.playground/
+
+.DS_Store
